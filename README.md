@@ -1,1 +1,1 @@
-# Multimodel-Plant-Disease-Prediction
+# Multimodel-Plant-Disease-Detection
