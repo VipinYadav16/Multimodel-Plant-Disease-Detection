@@ -18,7 +18,7 @@ The system uses the **PlantVillage dataset** with over 160,000 labeled images, a
 ---
 
 ## Dataset
-The project utilizes the **PlantVillage dataset**, which contains labeled images of both healthy and diseased leaves from 38 crop species, including:
+The project utilizes the **PlantVillage dataset**, which contains labeled images of both healthy and diseased leaves from 38 crop species, including :
 - Tomato
 - Potato
 - Apple
